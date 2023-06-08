@@ -1,5 +1,5 @@
 # Temperature-dependent-elastic-modulus-NN-model
-# Titre de votre projet / Project Title
+# Modèle RNA pour la prédiction du module d'élasticité des métaux à différentes températures / NN model for the prediction of elastic modulus at different temperatures
 
 Ce référentiel contient les fichiers et le code associés à ma thèse de master sur le sujet XYZ.
 / This repository contains the files and code related to my master's thesis on the topic XYZ.
