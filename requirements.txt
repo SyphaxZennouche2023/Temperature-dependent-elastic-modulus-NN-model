@@ -1,0 +1,9 @@
+tensorflow==2.8.0
+sklearn==0.0
+tensorflow.keras
+tensorflow-docs==0.0.0.dev0
+pathlib
+matplotlib.pyplot
+numpy==1.23.5
+pandas==1.4.1
+seaborn==0.12.2
